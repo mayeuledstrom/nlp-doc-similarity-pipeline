@@ -1,2 +1,0 @@
-Project meeting minutes.
-Action items: improve data pipeline reliability and review privacy policy.
