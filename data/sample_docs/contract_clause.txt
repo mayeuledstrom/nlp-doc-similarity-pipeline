@@ -1,0 +1,2 @@
+This contract clause describes confidentiality obligations and data handling.
+All sensitive information must remain confidential according to the NDA terms.
