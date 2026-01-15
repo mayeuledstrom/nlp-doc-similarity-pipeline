@@ -1,0 +1,2 @@
+Energy performance report for building A.
+We analyze smart meters, consumption peaks, and recommendations for savings.
